@@ -1,1 +1,27 @@
 # mini-RAG
+
+This is a minimal implementation of the RAG model for question answering
+
+## Requirments
+
+- Python 3.8 or later
+
+#### Install Python using MiniConda
+
+1) Download and install MiniConda from [href](https://www.anaconda.com/download/success)
+2) Create a new environment using the following command:
+```bash
+$ conda create -n mini-rag python=3.8
+
+```
+3) Activate the environment:
+```bash
+$ conda activate mini-rag
+```
+
+
+
+
+
+
+
