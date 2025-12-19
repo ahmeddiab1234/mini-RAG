@@ -6,3 +6,5 @@ pydantic-settings==2.2.1
 aiofiles==23.2.1
 regex==2025.11.3
 logging==0.4.9.6
+langchain==0.1.20
+PyMuPDF==1.24.3
