@@ -13,5 +13,5 @@ cohere==5.5.8
 qdrant-client==1.10.1
 regex==2026.1.15
 DateTime==5.5
-
-
+SQLAlchemy==2.0.36
+asyncpg==0.30.0
