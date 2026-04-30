@@ -12,7 +12,7 @@ from models.ProjectModel import ProjectModel
 from models.ChunkModel import ChunkModel
 from models.AssetModel import AssetModel
 from models.enums.AssetTypeEnum import AssetTypeEnum
-from models.db_schees import DataChunk, Asset
+from models.db_schemes import DataChunk, Asset
 
 
 logger = logging.getLogger('uvicorn.error')

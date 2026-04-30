@@ -1,5 +1,5 @@
 from .BaseDataModel import BaseDatamodel
-from .db_schees import Asset
+from .db_schemes import Asset
 from .enums.DataBaseEnum import DataBaseEnum
 from bson import ObjectId
 
